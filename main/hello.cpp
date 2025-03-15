@@ -9,5 +9,6 @@ int main(void) {
   cout <<"PES2UG22CS460\n";
   cout <<"required changes are  done";
   cout <<"Task 5 Pipeline";
+  cout <<"New pipeline ";
   return 0;
 }
